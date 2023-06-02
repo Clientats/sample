@@ -9,3 +9,4 @@ from osgeo.gdal import deprecation_warn
 
 deprecation_warn('gdal_edit')
 sys.exit(main(sys.argv))
+exit
